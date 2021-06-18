@@ -1,0 +1,15 @@
+.classes{
+    width: 80vw;
+    padding-bottom: 5vh;
+    border-bottom: 2px solid;
+}
+img{
+    height: 20vh;
+    width : 40vw;
+}
+a{
+    color:blue;
+}
+h4{
+    color: red;
+}
